@@ -121,7 +121,7 @@
 - **Треугольник**: \( P = a + b + c \)
 
 ---
-07bd327090fa7af315fd648e5b6610ab189c1c18 L-04: Update square.py
-25d21e2e0ed5ea1e651c3b4348dee1387d3cc468 L-04: Update square.py
-aad089c5d7a8b524dd7d7ce2e6ca03778cde5c5a L-04: Update square.py
-cbf6e072bdff30e00f842b00f4eeafed47ab9c21 L-04: Update circle.py
+- 07bd327090fa7af315fd648e5b6610ab189c1c18 L-04: Update square.py
+- 25d21e2e0ed5ea1e651c3b4348dee1387d3cc468 L-04: Update square.py
+- aad089c5d7a8b524dd7d7ce2e6ca03778cde5c5a L-04: Update square.py
+- cbf6e072bdff30e00f842b00f4eeafed47ab9c21 L-04: Update circle.
